@@ -30,9 +30,6 @@ header {
 
 .logo-text {
     text-align: center;
-    background: linear-gradient(180deg, #1952ff 0, #fff 80%);
-    background-clip: text;
-    -webkit-text-fill-color: #fff0;
     font-size: clamp(21px, 3vw, 48px);
 
 }
